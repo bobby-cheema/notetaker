@@ -3,7 +3,7 @@ const fs = require("fs");
 const express = require("express");
 let notes = require("./db/db.json");
 const uuid = require("uuid");
-const { notDeepStrictEqual, notDeepEqual } = require("assert");
+
 
 const app = express();
 app.use(express.json());
