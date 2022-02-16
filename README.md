@@ -18,6 +18,8 @@ npm install
 ## Usge Information 
 
 npm start
+<img width="1530" alt="Screen Shot 2022-02-16 at 9 07 38 pm" src="https://user-images.githubusercontent.com/82983031/154243993-3acba791-acd7-460c-a579-8944f2f7a22c.png">
+
 
 ## Licience 
 
